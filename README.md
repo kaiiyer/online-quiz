@@ -1,4 +1,4 @@
-# Online-Exam-System-
+# Online-Exam-System
 Online examination system is a app for setting up online quiz with various functionality.
 It is a PHP project.
 
