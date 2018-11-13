@@ -16,4 +16,5 @@ git clone https://github.com/kaiiyer/online-quiz.git
 
 ### Note:
 Default admin emailid is admin@admin.com and password is admin
+
 admin password is md5 encypted.
